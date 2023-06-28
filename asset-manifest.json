@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/chatgpt-functions-deployer/static/css/main.8943899d.css",
-    "main.js": "/chatgpt-functions-deployer/static/js/main.45862c14.js",
+    "main.js": "/chatgpt-functions-deployer/static/js/main.dcbdd1c0.js",
     "static/js/787.95cb1215.chunk.js": "/chatgpt-functions-deployer/static/js/787.95cb1215.chunk.js",
     "static/media/logoSmall.png": "/chatgpt-functions-deployer/static/media/logoSmall.f5e264a549e2e391bcb6.png",
     "static/media/cog.svg": "/chatgpt-functions-deployer/static/media/cog.9ddcf22191307a69880e5ce8e8124e2e.svg",
     "static/media/flask.svg": "/chatgpt-functions-deployer/static/media/flask.8896851bd22d926b07588043177630c3.svg",
     "index.html": "/chatgpt-functions-deployer/index.html",
     "main.8943899d.css.map": "/chatgpt-functions-deployer/static/css/main.8943899d.css.map",
-    "main.45862c14.js.map": "/chatgpt-functions-deployer/static/js/main.45862c14.js.map",
+    "main.dcbdd1c0.js.map": "/chatgpt-functions-deployer/static/js/main.dcbdd1c0.js.map",
     "787.95cb1215.chunk.js.map": "/chatgpt-functions-deployer/static/js/787.95cb1215.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8943899d.css",
-    "static/js/main.45862c14.js"
+    "static/js/main.dcbdd1c0.js"
   ]
 }
